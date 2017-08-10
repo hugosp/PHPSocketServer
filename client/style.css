@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background: #333;
+    font-family: Monospace;
+}
+.container {
+    background-color: whitesmoke;
+}
+.message_box {
+	height:350px;
+	overflow: auto;
+	padding: 10px;
+}
+.user_name {
+    font-weight: bold;
+}
+.system_msg {
+    font-style: italic; 
+}
+.system_error {
+    font-style: italic; 
+    color: red;
+}
